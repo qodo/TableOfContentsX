@@ -33,6 +33,6 @@ Further info
 
 For information and support, check out my blog:
 
-http://www.qodo.co.uk/blog/twitterx-a-new-modx-extra-for-pulling-in-twitter-feeds-using-api-1.1/
+http://www.qodo.co.uk/tableofcontentsx-a-new-modx-extra-for-creating-a-table-of-contents
 
 Created by Stewart Orr @ Qodo Ltd (http://www.qodo.co.uk).
