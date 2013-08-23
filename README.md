@@ -10,8 +10,8 @@ Snippet TableOfContentsX
 
 This is the main/only snippet included in this package and takes a template variable/chunk/placeholder and generates the Table Of Contents. The snippet has one parameter and that is to select what it should output:-
 
-*toc - This will output an ordered list with links to your page header tags
-*content - This will output your page content with your header tags with anchors
+* toc - This will output an ordered list with links to your page header tags
+* content - This will output your page content with your header tags with anchors
 
 A typical way of using this would be to do the following: -
 
