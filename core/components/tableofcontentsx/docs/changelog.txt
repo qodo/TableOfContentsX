@@ -1,0 +1,6 @@
+Changelog for TableOfContentsX package. 
+
+TableOfContentsX 1.0 - 23/08/2013
+===================================== 
+
+- First version - I hope you find it useful!
