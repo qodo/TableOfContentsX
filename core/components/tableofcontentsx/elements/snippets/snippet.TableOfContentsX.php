@@ -19,7 +19,7 @@
  * A PARTICULAR PURPOSE. See the GNU General Public License for more details.
  *
  * @author Stewart Orr @ Qodo Ltd <stewart@qodo.co.uk>
- * @version 1.0
+ * @version 1.0.1
  */
 
 // Parameters/options
@@ -92,7 +92,7 @@ foreach ($matches as $heading) {
 	}
 
 	$j = 0;
-	$toc .= '<li><a href="#'.$anchor.'">'.$title.'</a>';
+	$toc .= '<li><a href="[[~[[*id]]]]#'.$anchor.'">'.$title.'</a>';
 	$prevlvl = $lvl;
 
 	$i++;
