@@ -1,4 +1,4 @@
-TableOfContentsX v1.0
+TableOfContentsX v1.0.1
 =====================
 
 This extra takes your MODX content and creates an ordered list table of contents based on the h1,h2,h3,h4,h5 and h6 tags. This can be used so that long articles and pages can be broken down and makes it easier for the user to click a section they'd like to jump to.

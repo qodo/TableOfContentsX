@@ -1,5 +1,10 @@
 Changelog for TableOfContentsX package. 
 
+TableOfContentsX 1.0.1 - 28/08/2013
+===================================== 
+
+- Missed off the url relative to the document, breaks sites with <base> 
+
 TableOfContentsX 1.0 - 23/08/2013
 ===================================== 
 
