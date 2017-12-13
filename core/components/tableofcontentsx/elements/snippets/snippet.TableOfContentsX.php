@@ -5,7 +5,7 @@
  * This snippet takes HTML content and generates a table of contents based
  * on the HTML headers <h1>, <h2> etc. Each header should have a HTML anchor
  * if it should be clickable.
- * 
+ *
  * Based on code by Joost de Valk, submitted on 02/08/2011
  * http://www.westhost.com/contest/php/function/create-table-of-contents/124
  *
@@ -19,7 +19,7 @@
  * A PARTICULAR PURPOSE. See the GNU General Public License for more details.
  *
  * @author Stewart Orr @ Qodo Ltd <stewart@qodo.co.uk>
- * @version 1.0.1
+ * @version 1.1
  */
 
 // Parameters/options
@@ -73,7 +73,7 @@ foreach ($matches as $heading) {
 	$ret = preg_match( '/title=[\'|"](.*)?[\'|"]/i', stripslashes( $heading[2] ), $title );
 	if ( $ret && $title[1] != '' )
 		$title = stripslashes( $title[1] );
-	else	
+	else
 		$title = $heading[3];
 	$title 		= trim( strip_tags( $title ) );
 
