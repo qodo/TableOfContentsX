@@ -1,4 +1,4 @@
-TableOfContentsX v1.1
+TableOfContentsX v1.2
 =====================
 
 This extra takes your MODX content and creates an ordered list table of contents based on the h1,h2,h3,h4,h5 and h6 tags. This can be used so that long articles and pages can be broken down and makes it easier for the user to click a section they'd like to jump to.
@@ -33,6 +33,6 @@ Further info
 
 For information and support, check out my blog:
 
-http://www.qodo.co.uk/tableofcontentsx-a-new-modx-extra-for-creating-a-table-of-contents
+https://www.qodo.co.uk/tableofcontentsx-a-new-modx-extra-for-creating-a-table-of-contents
 
-Created by Stewart Orr @ Qodo Ltd (http://www.qodo.co.uk).
+Created by Stewart Orr @ Qodo Ltd (https://www.qodo.co.uk).
