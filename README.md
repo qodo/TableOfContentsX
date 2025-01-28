@@ -28,6 +28,6 @@ Further info
 
 For information and support, check out my blog:
 
-http://www.stewartorr.co.uk/tableofcontentsx
+https://www.stewartorr.co.uk/tableofcontentsx
 
 Created by Stewart Orr (https://www.stewartorr.co.uk).
